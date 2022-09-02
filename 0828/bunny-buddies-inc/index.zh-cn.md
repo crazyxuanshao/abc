@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bunny-buddies-inc"
+website: "https://bunny-buddies.com/"
 twitter: "https://twitter.com/thebunnybuddies"
 discord: "https://discord.com/invite/bunnybuddies"
 telegram: ""
@@ -36,8 +36,6 @@ recommend1: false
 ---
 
 ![unnamed (1)](unnamed (1).png)
-
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bunny-buddies-inc
 
 ##### ▶ 什么是兔女郎？
 

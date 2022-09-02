@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bullishbunnies"
+website: "https://bullish-bunnies.com/"
 twitter: "https://twitter.com/bullish_bunnies"
 discord: "https://discord.com/invite/G9rmG4k4jA"
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bullishbunnies
-
 Bullish Bunnies 持有者可以参加 NFT 认领、抽奖、社区赠品等独家活动。请记住，所有的兔子都很酷，但有些比其他的更酷。Web3 - Open3L Metaverse 游戏推出了即玩即赚 $BULLISH 代币。
 
 ![unnamed (2)](unnamed (2).png)

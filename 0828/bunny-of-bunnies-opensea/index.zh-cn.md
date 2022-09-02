@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bunny-of-bunnies-opensea"
+website: "https://rarible.com/collection/0x2f11c40f81d3e6ae6ecd613008f2ad415aa42c9b"
 twitter: "https://twitter.com/poserabm"
 discord: ""
 telegram: ""
@@ -33,23 +33,21 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bunny-of-bunnies-opensea
-
 ![dasd](dasd.png)
 
-地面
+**地面**
 
 0.25 ETH
 
-体积
+**体积**
 
 0.8 ETH
 
-项目
+**项目**
 
 22
 
-拥有者
+**拥有者**
 
 2
 

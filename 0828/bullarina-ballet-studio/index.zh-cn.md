@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bullarina-ballet-studio"
+website: "https://mintbullarinas.com/"
 twitter: ""
 discord: "https://discord.com/invite/fycxPpGp"
 telegram: ""
@@ -37,9 +37,27 @@ recommend1: false
 
 ![unnamed](unnamed.png)
 
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bullarina-ballet-studio
+
 
 BullaRina Ballet Studio 是一款以各类牛牛作为基调，切换各种背景，眼睛，皮毛基础角色来进行交易购买出售的NFT平台
+
+
+
+##### ▶ 什么是 BullaRina 芭蕾舞工作室？
+
+BullaRina Ballet Studio 是一个 NFT（不可替代代币）系列。存储在区块链上的数字艺术品集合。
+
+##### ▶ 有多少 BullaRina Ballet Studio 代币？
+
+BullaRina Ballet Studio 总共有 5,023 个 NFT。目前，284 位业主的钱包中至少有一部 BullaRina Ballet Studio NTF。
+
+##### ▶ BullaRina Ballet Studio 最昂贵的一次拍卖是什么？
+
+BullaRina Ballet Studio NFT 售出的最昂贵的是 BullaRina #3758。它于 2022 年 7 月 1 日（2 个月前）以 0.1 美元的价格出售。
+
+##### ▶ BullaRina Ballet Studio 最近卖出了多少台？
+
+过去 30 天内售出了 2 个 BullaRina Ballet Studio NFT。
 
 ![unnamed (1)](unnamed (1).png)
 

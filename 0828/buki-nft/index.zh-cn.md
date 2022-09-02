@@ -35,8 +35,6 @@ recommend1: false
 ---
 ![dnsi](dnsi.png)
 
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/buki-nft
-
 在opensea上通过交易获得喜欢的图片背景身体套装交易的一系列具有收藏价值的珍品
 
 ![infisd](infisd.png)

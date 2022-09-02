@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bumblebeens"
+website: "https://www.bumblebeens.com/"
 twitter: "https://twitter.com/bumblebeenies"
 discord: "https://discord.com/invite/bumblebeens"
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bumblebeens
-
 ![unnamed](unnamed.png)
 
 ##### ▶ 什么是大黄蜂？

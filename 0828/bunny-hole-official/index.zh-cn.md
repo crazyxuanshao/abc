@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bunny-hole-official"
+website: "https://www.nftbunnyhole.com/"
 twitter: "https://twitter.com/nftbunnyhole"
 discord: "https://discord.com/invite/M5vVrsRZWq"
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bunny-hole-official
-
 ![unnamed (1)](unnamed (1).png)
 
 ##### ▶ 什么是兔子洞官员？

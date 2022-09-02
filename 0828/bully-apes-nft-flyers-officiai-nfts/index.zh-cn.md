@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bully-apes-nft-flyers-officiai-nfts"
+website: "https://mintbullyape.com/"
 twitter: ""
 discord: ""
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bully-apes-nft-flyers-officiai-nfts
-
 ![unnamed](unnamed.png)
 
 我们是一组生活在以太坊区块链上的 5,555 个随机生成的可收藏 NFT。

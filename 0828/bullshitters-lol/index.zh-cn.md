@@ -11,7 +11,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bullshitters-lol"
+website: "https://bullshitters.lol/"
 twitter: "https://twitter.com/BullshittersNFT"
 discord: ""
 telegram: ""
@@ -34,10 +34,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bullshitters-lol
-
-##### 
-
 Bullshit NFT 是一个 NFT（非同质代币）集合。存储在区块链上的数字艺术品集合。
 
 ##### ▶ Bullshit NFT 代币有多少？

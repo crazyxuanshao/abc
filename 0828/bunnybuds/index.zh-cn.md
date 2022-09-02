@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bunnybuds"
+website: "https://www.bunnybuds.io/"
 twitter: "https://twitter.com/bunnybudsNFT"
 discord: "https://discord.com/invite/mNBzdEqYNa"
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bunnybuds
-
 ![unnamed (2)](\unnamed (2).png)
 
 Bunny Buds 是 9,999 个完全独立的生成角色的集合，大约 75% 的好兔子 (Bunny Buds) 和 25% 的坏兔子，包括入侵的外星人、他们的兔子机器人奴隶和僵尸。除了程序化批次外，还有 300 个额外的完全手绘的超独特变体。

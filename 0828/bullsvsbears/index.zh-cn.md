@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bullsvsbears"
+website: "https://www.bullsversusbears.art/"
 twitter: "https://twitter.com/bullsVSbears00"
 discord: "https://discord.com/invite/fUXmgP3npJ"
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bullsvsbears
-
 仅限于 5,555 名互换牛市和熊市，持有公牛队让 BVB 的每位持有人每月获得 80% 的特许权使用费。但要小心，让空头自由，百分比下降到 20%。现在就加入我们这个令人兴奋的社区项目。
 
 ![unnamed (1)](unnamed (1).png)

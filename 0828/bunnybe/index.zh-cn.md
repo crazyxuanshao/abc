@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bunnybe"
+website: "https://bunnybe.fun/"
 twitter: "https://twitter.com/BunnyBeNFT"
 discord: ""
 telegram: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bunnybe
-
 ![unnamed](unnamed.png)
 
 ##### ▶ 什么是 Bunny Be Genesis？

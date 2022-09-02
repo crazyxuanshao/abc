@@ -10,7 +10,7 @@ tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "https://opensea.io/collection/bullrunnersofficial"
+website: "https://bullrunners.wtf/"
 twitter: "https://twitter.com/BullrunnersNFT"
 discord: ""
 telegram: ""
@@ -33,7 +33,7 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bullrunnersofficial
+
 
 ![unnamed](unnamed.png)
 
