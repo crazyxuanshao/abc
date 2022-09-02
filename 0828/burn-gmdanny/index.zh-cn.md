@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/burn-gmdanny
-
 ![unndsamed](unndsamed.png)
 
 拥有者可以“烧掉”他们的代币并展示一张新的、随机生成的 1/1 化学烧伤胶片照片。

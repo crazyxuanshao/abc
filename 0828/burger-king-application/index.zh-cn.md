@@ -1,16 +1,16 @@
 ---
 title: "Burger King Application"
 description: "1111 burger king 应用程序，我们都可能需要，因为 eth 继续它的潜水。 前 555 个免费，接下来 555 个 0.01"
-date: 2022-08-23T00:00:00+08:00
-lastmod: 2022-08-23T00:00:00+08:00
+date: 2022-08-28T00:00:00+08:00
+lastmod: 2022-08-28T00:00:00+08:00
 draft: false
-authors: ["Metabd"]
+authors: ["crazyxuanshao"]
 featuredImage: "burger-king-application.png"
 tags: ["Collectibles"]
 categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
-website: "http://careers.bk.com/"
+website: "https://opensea.io/collection/burger-king-application"
 twitter: ""
 discord: ""
 telegram: ""
@@ -33,7 +33,7 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-1111 burger king 应用程序，我们都可能需要，因为 eth 继续它的潜水。 前 555 个免费，接下来 555 个 0.01 https://etherscan.io/address/0x75988c410dd78fecb8b9aa89dfee4b907c3585e8
+1111 burger king 应用程序，我们都可能需要，因为 eth 继续它的潜水。 前 555 个免费，接下来 555 个 0.01
 
 ![unnamed (2)](unnamed (2).png)
 

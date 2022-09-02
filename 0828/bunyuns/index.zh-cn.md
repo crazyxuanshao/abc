@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/bunyuns
-
 超过 120 个特征
 
 幸运铸币者将在第一周获得 50% 的公开特许权使用费

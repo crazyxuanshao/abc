@@ -37,8 +37,6 @@ recommend1: false
 
 ![dsadad](dsadad.png)
 
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/burnyboy
-
 ##### ▶ 什么是 BurnyBoy？
 
 BurnyBoy 是一个 NFT（不可替代代币）集合。存储在区块链上的数字艺术品集合。

@@ -11,14 +11,14 @@ categories: ["nfts"]
 nfts: ["Collectibles"]
 blockchain: ""
 website: "https://opensea.io/collection/burst"
-twitter: ""
-discord: ""
-telegram: ""
+twitter: "https://www.twitter.com/burst_cryptoart"
+discord: "https://discord.gg/burst_"
+telegram: "https://t.me/burst_cryptoart"
 github: ""
 youtube: ""
 twitch: ""
 facebook: ""
-instagram: ""
+instagram: "https://www.instagram.com/burst_cryptoart"
 reddit: ""
 medium: ""
 steam: ""
@@ -33,8 +33,6 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-项目网站、社交联系方式、项目介绍内容详见：https://opensea.io/collection/burst
-
 ![unnamedds](unnamedds.png)
 
 ##### ▶ 什么是突发日光灼伤？
